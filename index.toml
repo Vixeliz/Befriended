@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "jars/figura.jar"
+hash = "b343b0a41ae4df21834fb9f9691246cca12f5317ebf99391796dedeb17df7208"
+
+[[files]]
 file = "mods/ai-improvements.pw.toml"
 hash = "62611a2b798035390a280b158563cfa590ab6f3465b77be46949839809dbe77f"
 metafile = true
@@ -198,6 +202,11 @@ metafile = true
 [[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "05d96d5b17399f048469ff4b44451eb8d99cc7a2a075ff55718c397cb508b0c2"
+metafile = true
+
+[[files]]
+file = "mods/figura.pw.toml"
+hash = "faa33c007edfdffa843b68d20193c907e38d2bdf84c7c942209da0256d0f0699"
 metafile = true
 
 [[files]]
