@@ -1,0 +1,13 @@
+name = "Befriended"
+author = "Mylah"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "6aac78560800e0ceced22aae01a08cabd8f5cc08da30e3140088f3b200efa40a"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.197"
